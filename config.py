@@ -30,5 +30,5 @@ CONVERT_RESULT = {
 
 score_board = {
     'number_of_user_winner_set_play': 0,
-    'git git': 0
+    'number_of_system_winner_set_play': 0
 }
